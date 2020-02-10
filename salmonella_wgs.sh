@@ -190,3 +190,4 @@ if [ $amr_run == true ]; then
   abricate_exe
 fi
 
+# remove
