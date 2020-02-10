@@ -189,3 +189,4 @@ if [ $amr_run == true ]; then
   mkdir -p $OUT_DIR/abricate_res
   abricate_exe
 fi
+
